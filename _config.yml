@@ -1,16 +1,16 @@
 layout_spectrum: 0.5124613894149661
-typography_spectrum: 0.6858225541654974
+typography_spectrum: 0.6388455918058753
 color:
-  brandStrength: 0.7575920636299998
-  lightness: 0.311903236201033
-  saturation: 0.578792585991323
-  rhythmicContrast: 0.5095382453873754
+  brandStrength: 0.45301808416843414
+  lightness: 0.7300625499337912
+  saturation: 0.04806341324001551
+  rhythmicContrast: 0.541034976253286
   brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
     - '#FFFFFF'
-    - '#636466'
-    - '#231F20'
-    - '#0082C8'
-    - '#97D4F3'
+    - '#F26101'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c5fd982-ba9a-4fc0-b1d8-8ea28b643468.jpg
 name: AccelEMR Solutions
