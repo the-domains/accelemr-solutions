@@ -1,4 +1,3 @@
-layout_spectrum: 0.49784558545798063
 typography_spectrum: 0.8180927007924765
 color:
   brandStrength: 0.2987770498730242
@@ -11,7 +10,9 @@ color:
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
-logo: null
+layout_spectrum: 0.49784558545798063
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/30dba59f-7063-499e-8fb7-2d7459edcde3.jpg
 name: AccelEMR Solutions
 navigation:
   - name: Who We Are
