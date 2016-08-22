@@ -14,6 +14,10 @@ layout_spectrum: 0.6977075834292918
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c5fd982-ba9a-4fc0-b1d8-8ea28b643468.jpg
 name: AccelEMR Solutions
+navigation:
+  - name: Who We Are
+    id: f7c27626-2468-419b-a522-afd9aca128a7
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/22d33b3c-1d04-4c65-8617-58342eec53f6.jpg
 title: AccelEMR Solutions
