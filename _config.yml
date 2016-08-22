@@ -1,16 +1,16 @@
-layout_spectrum: 0.8811467755585909
-typography_spectrum: 0.0012268421705812216
+layout_spectrum: 0.49784558545798063
+typography_spectrum: 0.8180927007924765
 color:
-  brandStrength: 0.251696061110124
-  lightness: 0.03821923607029021
-  saturation: 0.9596391848754138
-  rhythmicContrast: 0.05365040106698871
+  brandStrength: 0.2987770498730242
+  lightness: 0.9957040084991604
+  saturation: 0.49948898795992136
+  rhythmicContrast: 0.9199843043461442
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
 logo: null
 name: AccelEMR Solutions
 navigation:
