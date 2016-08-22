@@ -1,4 +1,3 @@
-layout_spectrum: 0.5124613894149661
 typography_spectrum: 0.6388455918058753
 color:
   brandStrength: 0.45301808416843414
@@ -11,14 +10,13 @@ color:
     - '#D9E8F5'
     - '#FFFFFF'
     - '#F26101'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c5fd982-ba9a-4fc0-b1d8-8ea28b643468.jpg
+layout_spectrum: 0.5124613894149661
+logo: null
 name: AccelEMR Solutions
 navigation:
   - name: Who We Are
     id: f7c27626-2468-419b-a522-afd9aca128a7
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/22d33b3c-1d04-4c65-8617-58342eec53f6.jpg
+favicon: null
 title: AccelEMR Solutions
 description: Imagine. Innovate. Optimize.
