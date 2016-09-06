@@ -27,6 +27,9 @@ navigation:
   - name: Release 16.2
     id: cb67117c-3e5d-43e8-bdb5-dbff7f19a42e
     type: content
+  - name: 'Testimonials '
+    id: 076cd9dc-9018-4b6f-98b7-d027d0d7c9cf
+    type: content
 favicon: null
 title: AccelEMR Solutions
 description: Imagine. Innovate. Optimize.
