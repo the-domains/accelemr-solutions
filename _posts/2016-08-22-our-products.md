@@ -1,8 +1,9 @@
 ---
-datePublished: '2016-08-22T22:58:45.900Z'
+datePublished: '2016-09-02T21:50:02.249Z'
+sourcePath: _posts/2016-08-22-our-products.md
 author: []
 via: {}
-dateModified: '2016-08-22T22:48:50.584Z'
+dateModified: '2016-09-02T21:50:01.493Z'
 title: Our Products
 publisher: {}
 description: >-
@@ -11,7 +12,6 @@ description: >-
   further customization to suit your practice. This optimization is vital in
   order to get the full benefits from your investment of time and money.
 starred: false
-sourcePath: _posts/2016-08-22-our-products.md
 inFeed: true
 hasPage: true
 inNav: false
