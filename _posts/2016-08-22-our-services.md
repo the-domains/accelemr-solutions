@@ -1,18 +1,16 @@
 ---
-datePublished: '2016-08-22T22:58:45.892Z'
+datePublished: '2016-09-02T22:06:20.149Z'
 author: []
 via: {}
-dateModified: '2016-08-22T22:41:33.889Z'
+dateModified: '2016-09-02T22:06:19.655Z'
 title: Our Services
 publisher: {}
 description: >-
   In addition to software tools, AccelEMR Solutions provides a wide range of
   consulting services that include:
-starred: false
 sourcePath: _posts/2016-08-22-our-services.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: our-services/index.html
 _context: 'http://schema.org'
 _type: Article
