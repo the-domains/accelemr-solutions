@@ -1,8 +1,8 @@
 ---
-datePublished: '2016-08-22T22:58:45.895Z'
+datePublished: '2016-09-02T22:07:00.969Z'
 author: []
 via: {}
-dateModified: '2016-08-22T22:44:31.686Z'
+dateModified: '2016-09-02T22:07:00.491Z'
 title: 'Testimonials '
 publisher: {}
 description: >-
@@ -12,11 +12,9 @@ description: >-
   workflow and more, to enhance the functionality of your Profile EMR. Developed
   by BC Physicians for BC Physicians with years of experience, the proven
   performance of AccelEMR can help you drive your practice to the next level.
-starred: false
 sourcePath: _posts/2016-08-22-testimonials.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: testimonials/index.html
 _context: 'http://schema.org'
 _type: Article
