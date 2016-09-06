@@ -4,7 +4,7 @@
         <description><![CDATA[AccelEMR Solutions]]></description>
         <link>https://thegrid.ai/accelemr-solutions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 22:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 22:07:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/accelemr-solutions/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Release 16.2]]></title>
@@ -19,13 +19,6 @@
             <link>https://www.youtube.com/watch?v=mSDU19rWwjY</link>
             <guid isPermaLink="false">f9ac146c-7381-4ead-9e8b-220182a169b2</guid>
             <pubDate>Fri, 02 Sep 2016 21:47:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact Us]]></title>
-            <description><![CDATA[<article><h1>Contact Us</h1><p>Address:203-2051 McCallum Rd. Abbotsford, BC V2S 3N5 Canada </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5d1a5d2-b4f5-46c8-a590-b77861bd4a23.jpg"></article>]]></description>
-            <link>https://thegrid.ai/accelemr-solutions/contact-us/index.html</link>
-            <guid isPermaLink="false">d6053454-7e74-4146-8752-fc9c52b4ac9b</guid>
-            <pubDate>Mon, 22 Aug 2016 22:58:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
