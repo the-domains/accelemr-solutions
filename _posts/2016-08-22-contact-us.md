@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-08-22T22:58:45.901Z'
+datePublished: '2016-09-02T22:07:15.207Z'
 author: []
 via: {}
-dateModified: '2016-08-22T22:46:32.620Z'
+dateModified: '2016-09-02T22:07:14.670Z'
 title: Contact Us
 publisher: {}
-description: 'Address: 203-2051 McCallum Rd.  Abbotsford, BC  V2S 3N5  Canada  '
-starred: false
+description: 'Address:203-2051 McCallum Rd. Abbotsford, BC V2S 3N5 Canada '
 sourcePath: _posts/2016-08-22-contact-us.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: contact-us/index.html
 _context: 'http://schema.org'
 _type: Article
