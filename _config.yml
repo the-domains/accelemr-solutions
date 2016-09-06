@@ -24,6 +24,9 @@ navigation:
   - name: Our Services
     id: 483c8c94-7426-4f00-aa7c-e67c21e34438
     type: content
+  - name: Release 16.2
+    id: cb67117c-3e5d-43e8-bdb5-dbff7f19a42e
+    type: content
 favicon: null
 title: AccelEMR Solutions
 description: Imagine. Innovate. Optimize.
