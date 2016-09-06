@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-02T21:50:02.249Z'
+datePublished: '2016-09-02T22:06:11.364Z'
 sourcePath: _posts/2016-08-22-our-products.md
 author: []
 via: {}
-dateModified: '2016-09-02T21:50:01.493Z'
+dateModified: '2016-09-02T22:06:10.925Z'
 title: Our Products
 publisher: {}
 description: >-
@@ -11,10 +11,8 @@ description: >-
   finished training, you are left with a powerful engine that still requires
   further customization to suit your practice. This optimization is vital in
   order to get the full benefits from your investment of time and money.
-starred: false
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: our-products/index.html
 _context: 'http://schema.org'
 _type: Article
