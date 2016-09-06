@@ -30,6 +30,9 @@ navigation:
   - name: 'Testimonials '
     id: 076cd9dc-9018-4b6f-98b7-d027d0d7c9cf
     type: content
+  - name: Request a Quote
+    id: f3ff9aab-e1b5-4434-9c3e-8cd3f5427791
+    type: content
 favicon: null
 title: AccelEMR Solutions
 description: Imagine. Innovate. Optimize.
