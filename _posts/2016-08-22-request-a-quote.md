@@ -1,18 +1,16 @@
 ---
-datePublished: '2016-08-22T22:58:45.900Z'
+datePublished: '2016-09-02T22:07:08.708Z'
 author: []
 via: {}
-dateModified: '2016-08-22T22:47:31.475Z'
+dateModified: '2016-09-02T22:07:08.327Z'
 title: Request a Quote
 publisher: {}
 description: >-
   To request a quote for our products or services, please send an email to:
   info@accelemr.com
-starred: false
 sourcePath: _posts/2016-08-22-request-a-quote.md
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: request-a-quote/index.html
 _context: 'http://schema.org'
 _type: Article
