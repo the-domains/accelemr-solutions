@@ -14,6 +14,13 @@ layout_spectrum: 0.49784558545798063
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/30dba59f-7063-499e-8fb7-2d7459edcde3.jpg
 name: AccelEMR Solutions
+navigation:
+  - name: Who We Are
+    id: f7c27626-2468-419b-a522-afd9aca128a7
+    type: content
+  - name: Our Products
+    id: bf8ce18d-ee33-4cc2-b862-3ff45a9430c5
+    type: content
 favicon: null
 title: AccelEMR Solutions
 description: Imagine. Innovate. Optimize.
